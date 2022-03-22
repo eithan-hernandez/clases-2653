@@ -9,6 +9,8 @@
 <br><br>
 <center> <h3>Nestor Eithan Castillo Hernandez</h3> </center>
  
+ # GITHUB: [TAREA 1](https://github.com/eithan-hernandez/clases-2653/tree/main/tareas/tarea_1) 
+
 <br><br><br><br><br>
  
 # Fundamentos de desarrollo web

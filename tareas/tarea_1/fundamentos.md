@@ -8,11 +8,13 @@
 <center> <h3>desarrollo web</h3> </center>
 <br><br>
 <center> <h3>Nestor Eithan Castillo Hernandez</h3> </center>
- 
+
+# GITHUB: [TAREA 1](https://github.com/eithan-hernandez/clases-2653/tree/main/tareas/tarea_1) 
 <br><br><br><br><br>
  
 # Fundamentos de desarrollo web
- 
+
+
 Instrucciones: Investigar y dar una conclusión de cada uno de los siguientes
 puntos
 1. ¿Qué es la Web 1.0 y la Web 2.0?
