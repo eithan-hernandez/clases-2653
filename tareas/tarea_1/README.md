@@ -7,7 +7,7 @@
 <br><br>
 <center> <h3>desarrollo web</h3> </center>
 <br><br>
-<center> <h3>Nesor Eithan Castillo Hernandez</h3> </center>
+<center> <h3>Nestor Eithan Castillo Hernandez</h3> </center>
  
 <br><br><br><br><br>
  
